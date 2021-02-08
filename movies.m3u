@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13", Warner TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-warner
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13",ZBioskop 
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-zbioskop
 
