@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png", Smithsonian (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6550
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png", Love Nature (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6635
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13", National Geographic 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeo
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13", Nat Geo People 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeopeople
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13", Nat Geo Wild 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeowild
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13", Discovery Channel 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-disco
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13", CGTN Documentary 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cgtndocumentary
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png", Crime Investigation 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-crimeinvestigation
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13", History 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-history
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png", Lingua 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-lingua
+
