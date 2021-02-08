@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13",ZBioskop 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-zbioskop
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png",TVN 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvn
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",TVN MOVIES
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvnmovies
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png",Thrill 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-thrill
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13",Bioskop Indonesia 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bioskopindonesia
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png",Celestial Movie 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-celestialmovie
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",Cinema World 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cinemaworld
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13",Flik 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-filx
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13",Galaxy 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxy
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png",Galaxy Premium 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxypremium
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13",IMC 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-imc
