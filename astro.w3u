@@ -1,120 +1,33 @@
 
-		{
-			"name": "ASTRO♥CHANNEL",
-			"image": "https://media.giphy.com/media/QxOkUcdUc9s8gPTnbz/giphy.gif",
-			"stations": [
-
-				{
-					"name": "ASTRO PRIMA",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest/scale-to-width-down/340?cb=20190111152445",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39316",
-					"embed": "true"
-				},
-				
-				{
-					"name": "ASTRO OASIS",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest/scale-to-width-down/340?cb=20190111152636",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39317",
-					"embed": "true"
-				},
-				
-				{
-					"name": "ASTRO RIA",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/340?cb=20180623060717",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39315",
-					"embed": "true"
-				},
-				
-				{
-					"name": "ASTRO WARNA",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/340?cb=20200823172850",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39318",
-					"embed": "true"
-				},				
-				
-				{
-					"name": "ASTRO NAURA",
-					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NAURA.png/340px-NAURA.png",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39319",
-					"embed": "true"
-				},				
-				
-				{
-					"name": "ASTRO AEC",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_AEC.png/revision/latest/scale-to-width-down/340?cb=20180623064450",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39339",
-					"embed": "true"
-				},				
-				
-				{
-					"name": "ASTRO RANIA",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Astro_Rania.png/revision/latest/scale-to-width-down/340?cb=20200924122502",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39446",
-					"embed": "true"
-				},				
-				
-				{
-					"name": "ASTRO AURA",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest/scale-to-width-down/340?cb=20200924122544",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39447",
-					"embed": "true"
-				},		
-				
-				{
-					"name": "ASTRO SPORT 1",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39451",
-					"embed": "true"
-				},	
-				
-				{
-					"name": "ASTRO SPORT 2",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/8/8a/Astro_Supersport_2.png/revision/latest/scale-to-width-down/340?cb=20180622074955",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39452",
-					"embed": "true"
-				},
-				
-				{
-					"name": "ASTRO SPORT 3",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest/scale-to-width-down/340?cb=20180622075715",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39453",
-					"embed": "true"
-				},	
-				
-				{
-					"name": "ASTRO SPORT 4",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest/scale-to-width-down/340?cb=20180622080127",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39454",
-					"embed": "true"
-				},
-				
-				{
-					"name": "BEIN SPORT",
-					"image": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/818_300.png",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458",
-					"embed": "true"
-				},	
-				
-				{
-					"name": "BEIN MAX",
-					"image": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/819_300.png",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459",
-					"embed": "true"
-				},	
-				
-				{
-					"name": "ASTRO AURA",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest/scale-to-width-down/340?cb=20200924122544",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39447",
-					"embed": "true"
-				},
-				
-				{
-					"name": "ASTRO AURA",
-					"image": "https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest/scale-to-width-down/340?cb=20200924122544",
-					"url": "http://youriptv.tv:8080/MALIZIA/Nicetry8888/39447",
-					"embed": "true"
-				},	
-				
-			]
-		}
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/340?cb=20180623060717", ASTRO RIA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39315
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest/scale-to-width-down/340?cb=20190111152445", ASTRO PRIMA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39316
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest/scale-to-width-down/340?cb=20190111152636", ASTRO OASIS HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39317
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/340?cb=20200823172850", ASTRO WARNA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39318
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NAURA.png/340px-NAURA.png", ASTRO NAURA
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39319
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_AEC.png/revision/latest/scale-to-width-down/340?cb=20180623064450", AEC HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39339
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Astro_Rania.png/revision/latest/scale-to-width-down/340?cb=20200924122502", Astro Rania HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39446
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Astro_Aura.png/revision/latest/scale-to-width-down/340?cb=20200924122544", Astro Aura HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39447
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Astro_Arena_2015.png/revision/latest/scale-to-width-down/340?cb=20180622080932", ASTRO ARENA HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39450
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639", ASTRO ASSP HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39451
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Astro_Supersport_2.png/revision/latest/scale-to-width-down/340?cb=20180622074955", ASTRO ASSP2 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39452
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest/scale-to-width-down/340?cb=20180622075715", ASTRO ASSP3 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39453
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest/scale-to-width-down/340?cb=20180622080127", ASTRO ASSP4 HD
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39454
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/818_300.png", beIN SPORTS
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/819_300.png", bEIN MAX
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459
+		
