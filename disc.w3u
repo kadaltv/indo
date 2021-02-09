@@ -1,0 +1,72 @@
+{
+"name": "KADALTV Channel",
+"author": "KADAL DISCOVERY",
+"image": "https://seeklogo.com/images/N/National_Geographic_Maps-logo-F3697FF906-seeklogo.com.png",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/disc.w3u",
+"info": "By Suluk IPTV",
+"stations": [
+
+{
+"name": "SMITHSONIAN",  
+"image": "https://i.ibb.co/9GNB29H/smith.png3",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6550",
+"playInNatPlayer": "true"
+},
+{
+"name": "LOVE NATURE",  
+"image": "https://i.ibb.co/0mWZ02V/love.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6635",
+"playInNatPlayer": "true"
+},
+{
+"name": "NATIONAL GEOGRAPHIC",  
+"image": "hhttps://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeo",
+"playInNatPlayer": "true"
+},
+{
+"name": "NAT GEO PEOPLE",  
+"image": "hhttps://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeopeople",
+"playInNatPlayer": "true"
+},
+{
+"name": "NAT GEO WILD",  
+"image": "hhttps://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeowild",
+"playInNatPlayer": "true"
+},
+{
+"name": "DISCOVERY CHANNEL",  
+"image": "hhttps://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-disco",
+"playInNatPlayer": "true"
+},
+{
+"name": "CGTN DOCUMENTARY",  
+"image": "hhttps://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cgtndocumentary",
+"playInNatPlayer": "true"
+},
+{
+"name": "CRIME INVESTIGATION",  
+"image": "hhttps://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-crimeinvestigation",
+"playInNatPlayer": "true"
+},
+{
+"name": "HISTORY",  
+"image": "hhttps://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-history",
+"playInNatPlayer": "true"
+},
+{
+"name": "LINGUA",  
+"image": "hhttps://www.useetv.com/assets/images/channel/logo_lingua_small.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-lingua",
+"playInNatPlayer": "true"
+},
+
+            ]
+}
+
