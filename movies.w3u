@@ -1,0 +1,158 @@
+{
+"name": "KADALTV Channel",
+"author": "MOVIES CHANNEL",
+"image": "https://ncprd.com/wp-content/uploads/2018/05/Wonder-Woman.jpg",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/movies.w3u",
+"info": "By Suluk IPTV",
+"stations": [
+
+{
+"name": "HBO",  
+"image": "https://i.ibb.co/L9rY2tN/hbo.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-hbo",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO SIGNATURE",  
+"image": "https://i.ibb.co/4TFkw0B/hbosignature.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-sig",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO FAMILY",  
+"image": "https://i.ibb.co/0GWjcWV/hbofamily.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-fam",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO HITS",  
+"image": "https://i.ibb.co/8mgc3qG/hbohits.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-hits",
+"playInNatPlayer": "true"
+},
+{
+"name": "RED HBO",  
+"image": "https://i.ibb.co/wgxTrzm/red.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-red",
+"playInNatPlayer": "true"
+},
+{
+"name": "CINEMAX HBO",  
+"image": "https://i.ibb.co/WfRpvsJ/cinemax.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-max",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX CH",  
+"image": "https://i.ibb.co/WHS5GLc/fox.png",  
+"url": "https://nonton.site:8443/global3/mgt/95",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX ACTION MOVIES",  
+"image": "https://i.ibb.co/zHYS8sP/foxactionmovies.png",  
+"url": "https://nonton.site:8443/global3/mgt/1478",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX MOVIES",  
+"image": "https://i.ibb.co/9WJBzBH/foxmovies.png",  
+"url": "https://nonton.site:8443/global3/mgt/98",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX LIFE",  
+"image": "https://i.ibb.co/N2QyPx7/foxlife.png",  
+"url": "https://nonton.site:8443/global3/mgt/94",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX CRIME",  
+"image": "https://i.ibb.co/Ch6wScc/foxcrime.png",  
+"url": "https://nonton.site:8443/global3/mgt/763",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX FAMILY MOVIES",  
+"image": "https://i.ibb.co/MVtvTyF/foxfamilymovies.png",  
+"url": "https://nonton.site:8443/global3/mgt/14994",
+"playInNatPlayer": "true"
+},
+{
+"name": "WARNER TV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-warner",
+"playInNatPlayer": "true"
+},
+{
+"name": "ZBIOSKOP",  
+"image": "https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-zbioskop",
+"playInNatPlayer": "true"
+},
+{
+"name": "TVN",  
+"image": "https://www.useetv.com/assets/images/channel/logo_tvn_small.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvn",
+"playInNatPlayer": "true"
+},
+{
+"name": "TVN MOVIES",  
+"image": "https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvnmovies",
+"playInNatPlayer": "true"
+},
+{
+"name": "THRILL",  
+"image": "https://www.useetv.com/assets/images/channel/logo_thrill_small.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-thrill",
+"playInNatPlayer": "true"
+},
+{
+"name": "BIOSKOP INDONESIA",  
+"image": "https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bioskopindonesia",
+"playInNatPlayer": "true"
+},
+{
+"name": "CELESTIAL MOVIES",  
+"image": "https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-celestialmovie",
+"playInNatPlayer": "true"
+},
+{
+"name": "CINEMA WORLD",  
+"image": "https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cinemaworld",
+"playInNatPlayer": "true"
+},
+{
+"name": "FLIK",  
+"image": "https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-filx",
+"playInNatPlayer": "true"
+},
+{
+"name": "GALAXY",  
+"image": "https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxy",
+"playInNatPlayer": "true"
+},
+{
+"name": "GALAXY PREMIUM",  
+"image": "https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxypremium",
+"playInNatPlayer": "true"
+},
+{
+"name": "IMC",  
+"image": "https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-imc",
+"playInNatPlayer": "true"
+},
+
+            ]
+}
+
+
+
