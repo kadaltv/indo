@@ -1,0 +1,161 @@
+{
+"name": "KADALTV Channel",
+"author": "KADALTV INDONESIA CHANNEL",
+"image": "https://i.postimg.cc/3Nkf1ZSC/KADAL1.jpg",
+"url": "https://raw.githubusercontent.com/kadaltv/indo/main/k1.w3u",
+"info": "By Suluk IPTV",
+"stations": [
+
+{
+"name": "NETTV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-net",
+"playInNatPlayer": "true"
+},
+{
+"name": "SCTV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sctv",
+"playInNatPlayer": "true"
+},
+{
+"name": "INDOSIAR",  
+"image": "https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-indosiar",
+"playInNatPlayer": "true"
+},
+{
+"name": "RCTI",  
+"image": "https://i.ibb.co/SXV88k2/rcti.png",  
+"url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "MNC",  
+"image": "https://i.ibb.co/Nm5sJZr/mnc.png",  
+"url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "GTV",  
+"image": "https://i.ibb.co/FxSXwG7/gtv.png",  
+"url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "iNEWS",  
+"image": "https://i.ibb.co/F8LSMg9/inews.png",  
+"url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "METRO TV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-metrotv",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRANS 7",  
+"image": "https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-trans7",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRANS TV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-transtv",
+"playInNatPlayer": "true"
+},
+{
+"name": "KOMPAS TV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kompastv",
+"playInNatPlayer": "true"
+},
+{
+"name": "RTV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-rtv",
+"playInNatPlayer": "true"
+},
+{
+"name": "BERITA SATU",  
+"image": "https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-beritasatu",
+"playInNatPlayer": "true"
+},
+{
+"name": "JITV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jitv",
+"playInNatPlayer": "true"
+},
+{
+"name": "INSERT",  
+"image": "https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-insert",
+"playInNatPlayer": "true"
+},
+{
+"name": "ANTARA TV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-antara",
+"playInNatPlayer": "true"
+},
+{
+"name": "RUANG TERAMPIL",  
+"image": "https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useeinfo",
+"playInNatPlayer": "true"
+},
+{
+"name": "USEE PHOTO",  
+"image": "https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useephoto",
+"playInNatPlayer": "true"
+},
+{
+"name": "USEE PRIME",  
+"image": "https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useeprime",
+"playInNatPlayer": "true"
+},
+{
+"name": "BALI TV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-balitv",
+"playInNatPlayer": "true"
+},
+{
+"name": "JAK TV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jaktv",
+"playInNatPlayer": "true"
+},
+{
+"name": "JTV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jtv",
+"playInNatPlayer": "true"
+},
+{
+"name": "TV EDUKASI",  
+"image": "https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvedukasi",
+"playInNatPlayer": "true"
+},
+{
+"name": "TVRI",  
+"image": "https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvri",
+"playInNatPlayer": "true"
+},
+{
+"name": "DAAI TV",  
+"image": "https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-daaitv",
+"playInNatPlayer": "true"
+},
+
+            ]
+}
