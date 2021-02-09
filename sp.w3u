@@ -25,6 +25,18 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "BEIN SPORTS 1 (usee)",  
+"image": "https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein1",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEIN SPORTS 2 (usee)",  
+"image": "https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13",  
+"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein2",
+"playInNatPlayer": "true"
+},
+{
 "name": "CHAMPIONS TV 1 (usee)",  
 "image": "https://www.useetv.com/assets/images/channel/logo_champ1_small.png",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-champion1",
@@ -46,18 +58,6 @@
 "name": "USEE SPORTS 2 (usee)",  
 "image": "https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?v=2.0.0.13",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useesports2",
-"playInNatPlayer": "true"
-},
-{
-"name": "BEIN SPORTS 1 (usee)",  
-"image": "https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein1",
-"playInNatPlayer": "true"
-},
-{
-"name": "BEIN SPORTS 2 (usee)",  
-"image": "https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein2",
 "playInNatPlayer": "true"
 },
 {
