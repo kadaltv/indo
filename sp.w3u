@@ -80,19 +80,19 @@
 },
 {
 "name": "ESPN",  
-"image": "https://static.epg.best/us/ESPN.us.png",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png",  
 "url": "https://gma2.blab.email/fs2.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "ESPN 2",  
-"image": "https://static.epg.best/us/ESPN2.us.png",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/320px-Espn2.svg.png",  
 "url": "https://gma2.blab.email/espn2.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "Fox Sports 1 USA",  
-"image": "http://runnel.ir/ax/logo/FS1.png",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/320px-2015_Fox_Sports_1_logo.svg.png",  
 "url": "http://yoursports.stream/ing/fs1",
 "referer": "http://yoursports.stream/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
@@ -100,7 +100,7 @@
 },
 {
 "name": "Fox Sports 2 USA",  
-"image": "http://runnel.ir/ax/logo/FS2.png",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/320px-FS2_logo_2015.svg.png",  
 "url": "http://yoursports.stream/ing/fs2",
 "referer": "http://yoursports.stream/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
