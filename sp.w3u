@@ -8,86 +8,102 @@
 
 {
 "name": "CHAMPIONS TV 1 (video)",  
-"image": "https://i.ibb.co/xYG7zh2/champ1.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6685",
+"image": "https://cdn-production-thumbor-vidio.akamaized.net/91G4nHmeXrdL7241HMCuwa3H0ys=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg",  
+"url": "https://rosyid004.com/c:8080/champions1.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "CHAMPIONS TV 2 (video)",  
-"image": "https://i.ibb.co/Kwy7jLp/champ2.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6686",
+"image": "https://cdn-production-thumbor-vidio.akamaized.net/yHOE8UUTg1klF8mxo5r6ci8-eAM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg",  
+"url": "https://rosyid004.com/c:8080/champions2.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "CHAMPIONS TV 3 (video)",  
-"image": "https://i.ibb.co/c895Dgv/champ3.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6786",
+"image": "hhttps://cdn-production-thumbor-vidio.akamaized.net/hUDTPDaJwHtb1sex5ulAowjcYuA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg",  
+"url": "https://rosyid004.com/c:8080/champions3.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "BEIN SPORTS 1 (usee)",  
+"name": "BEIN SPORTS 1,  
 "image": "https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein1",
+"url": "https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "BEIN SPORTS 2 (usee)",  
+"name": "BEIN SPORTS 2,  
 "image": "https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bein2",
+"url": "https://laos-tech-live.b-cdn.net/epl-bein2_720/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "CHAMPIONS TV 1 (usee)",  
+"name": "CHAMPIONS TV 1,  
 "image": "https://www.useetv.com/assets/images/channel/logo_champ1_small.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-champion1",
+"url": "http://mantul.biz.id:8888/live/Jnu/Pelanggan3/232.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "CHAMPIONS TV 2 (usee)",  
+"name": "CHAMPIONS TV 2,  
 "image": "https://www.useetv.com/assets/images/channel/logo_champ2_small.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-champion2",
+"url": "http://mantul.biz.id:8888/live/Jnu/Pelanggan3/253.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "USEE SPORTS 1 (usee)",  
+"name": "USEE SPORTS 1,  
 "image": "https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useesport",
+"url": "http://mantul.biz.id:8888/live/Jnu/Pelanggan3/241.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "USEE SPORTS 2 (usee)",  
+"name": "USEE SPORTS 2,  
 "image": "https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useesports2",
+"url": "http://mantul.biz.id:8888/live/Jnu/Pelanggan3/241.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "FOX SPORTS 1 (usee)",  
+"name": "FOX SPORTS 1,  
 "image": "https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport1",
+"url": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "FOX SPORTS 2 (usee)",  
+"name": "FOX SPORTS 2,  
 "image": "https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport2",
+"url": "https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "FOX SPORTS 3 (usee)",  
+"name": "FOX SPORTS 3,  
 "image": "https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport3",
+"url": "https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "GOLF (usee)",  
-"image": "https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.14",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-golfplus",
+"name": "ESPN",  
+"image": "https://static.epg.best/us/ESPN.us.png",  
+"url": "https://gma2.blab.email/fs2.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "NBA (usee)",  
-"image": "https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-nba",
+"name": "ESPN 2",  
+"image": "https://static.epg.best/us/ESPN2.us.png",  
+"url": "https://gma2.blab.email/espn2.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 1 USA",  
+"image": "http://runnel.ir/ax/logo/FS1.png",  
+"url": "http://yoursports.stream/ing/fs1",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 2 USA",  
+"image": "http://runnel.ir/ax/logo/FS2.png",  
+"url": "http://yoursports.stream/ing/fs2",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
 
