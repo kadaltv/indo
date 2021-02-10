@@ -19,6 +19,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "ANIMAL PLANET",  
+"image": "https://seeklogo.net/wp-content/uploads/2012/11/animal-planet-tv-vector-logo.png",  
+"url": "https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "NATIONAL GEOGRAPHIC",  
 "image": "https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13",  
 "url": "https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8",
