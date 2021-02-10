@@ -7,152 +7,153 @@
 "stations": [
 
 {
-"name": "HBO",  
+"name": "HBO",
 "image": "https://i.ibb.co/L9rY2tN/hbo.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-hbo",
+"url": "http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "HBO SIGNATURE",  
+"name": "HBO SIGNATURE",
 "image": "https://i.ibb.co/4TFkw0B/hbosignature.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-sig",
+"url": "https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "HBO FAMILY",  
+"name": "HBO FAMILY",
 "image": "https://i.ibb.co/0GWjcWV/hbofamily.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-fam",
+"url": "http://fdtvapps.xyz/channel/hbofam.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "HBO HITS",  
+"name": "HBO HITS",
 "image": "https://i.ibb.co/8mgc3qG/hbohits.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-hits",
+"url": "https://www.dropbox.com/s/dl/6wm74beyzd0w9xo/mkctv_hbohit.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "RED HBO",  
+"name": "RED HBO",
 "image": "https://i.ibb.co/wgxTrzm/red.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-red",
+"url": "https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8?HBO",
 "playInNatPlayer": "true"
 },
 {
-"name": "CINEMAX HBO",  
+"name": "CINEMAX HBO",
 "image": "https://i.ibb.co/WfRpvsJ/cinemax.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=h-max",
+"url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "FOX CH",  
+"name": "FOX CH",
 "image": "https://i.ibb.co/WHS5GLc/fox.png",  
 "url": "https://nonton.site:8443/global3/mgt/95",
 "playInNatPlayer": "true"
 },
 {
-"name": "FOX ACTION MOVIES",  
+"name": "FOX ACTION MOVIES",
 "image": "https://i.ibb.co/zHYS8sP/foxactionmovies.png",  
 "url": "https://nonton.site:8443/global3/mgt/1478",
 "playInNatPlayer": "true"
 },
 {
-"name": "FOX MOVIES",  
+"name": "FOX MOVIES",
 "image": "https://i.ibb.co/9WJBzBH/foxmovies.png",  
 "url": "https://nonton.site:8443/global3/mgt/98",
 "playInNatPlayer": "true"
 },
 {
-"name": "FOX LIFE",  
+"name": "FOX LIFE",
 "image": "https://i.ibb.co/N2QyPx7/foxlife.png",  
 "url": "https://nonton.site:8443/global3/mgt/94",
 "playInNatPlayer": "true"
 },
 {
-"name": "FOX CRIME",  
+"name": "FOX CRIME",
 "image": "https://i.ibb.co/Ch6wScc/foxcrime.png",  
 "url": "https://nonton.site:8443/global3/mgt/763",
 "playInNatPlayer": "true"
 },
 {
-"name": "FOX FAMILY MOVIES",  
+"name": "FOX FAMILY MOVIES",
 "image": "https://i.ibb.co/MVtvTyF/foxfamilymovies.png",  
 "url": "https://nonton.site:8443/global3/mgt/14994",
 "playInNatPlayer": "true"
 },
 {
-"name": "WARNER TV",  
+"name": "WARNER TV",
 "image": "https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-warner",
+"url": "http://61.19.242.134/feed/LC28/index.m3u8",
 "playInNatPlayer": "true"
 },
+            ]
+}
+
 {
-"name": "ZBIOSKOP",  
+"name": "ZBIOSKOP",
 "image": "https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-zbioskop",
 "playInNatPlayer": "true"
 },
 {
-"name": "TVN",  
+"name": "TVN",
 "image": "https://www.useetv.com/assets/images/channel/logo_tvn_small.png",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvn",
 "playInNatPlayer": "true"
 },
 {
-"name": "TVN MOVIES",  
+"name": "TVN MOVIES",
 "image": "https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvnmovies",
 "playInNatPlayer": "true"
 },
 {
-"name": "THRILL",  
+"name": "THRILL",
 "image": "https://www.useetv.com/assets/images/channel/logo_thrill_small.png",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-thrill",
 "playInNatPlayer": "true"
 },
 {
-"name": "BIOSKOP INDONESIA",  
+"name": "BIOSKOP INDONESIA",
 "image": "https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-bioskopindonesia",
 "playInNatPlayer": "true"
 },
 {
-"name": "CELESTIAL MOVIES",  
+"name": "CELESTIAL MOVIES",
 "image": "https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-celestialmovie",
 "playInNatPlayer": "true"
 },
 {
-"name": "CINEMA WORLD",  
+"name": "CINEMA WORLD",
 "image": "https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cinemaworld",
 "playInNatPlayer": "true"
 },
 {
-"name": "FLIK",  
+"name": "FLIK",
 "image": "https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-filx",
 "playInNatPlayer": "true"
 },
 {
-"name": "GALAXY",  
+"name": "GALAXY",
 "image": "https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxy",
 "playInNatPlayer": "true"
 },
 {
-"name": "GALAXY PREMIUM",  
+"name": "GALAXY PREMIUM",
 "image": "https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png?v=2.0.0.13",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-galaxypremium",
 "playInNatPlayer": "true"
 },
 {
-"name": "IMC",  
+"name": "IMC",
 "image": "https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-imc",
 "playInNatPlayer": "true"
 },
 
-            ]
-}
 
 
 
