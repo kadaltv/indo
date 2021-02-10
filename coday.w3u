@@ -1,0 +1,17 @@
+{
+"name": "CODAY TV Channel",
+"author": "Credit By CODAYTV",
+"image": "https://apklust.com/logos/coday-tv-apk.png",
+"url": "https://raw.githubusercontent.com/kadaltv/WISE/Suluk_IPTV/master.w3u",
+"info": "CODAY TV",
+"groups": [
+
+{
+"name": "ALL CHANNEL CODAYTV",
+"image": "https://i.gifer.com/3dof.gif",
+"url": "http://codaytv.eu/S.m3u8",
+"import": false
+},
+
+            ]
+}
