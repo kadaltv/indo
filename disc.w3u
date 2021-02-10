@@ -9,61 +9,55 @@
 {
 "name": "SMITHSONIAN",  
 "image": "https://i.ibb.co/9GNB29H/smith.png3",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6550",
+"url": "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "LOVE NATURE",  
 "image": "https://i.ibb.co/0mWZ02V/love.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6635",
+"url": "http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "NATIONAL GEOGRAPHIC",  
 "image": "https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeo",
+"url": "https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "NAT GEO PEOPLE",  
 "image": "https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeopeople",
+"url": "https://www.livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "NAT GEO WILD",  
 "image": "https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-natgeowild",
+"url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "DISCOVERY CHANNEL",  
 "image": "https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-disco",
+"url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "CGTN DOCUMENTARY",  
 "image": "https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cgtndocumentary",
-"playInNatPlayer": "true"
-},
-{
-"name": "CRIME INVESTIGATION",  
-"image": "https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-crimeinvestigation",
+"url": "http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "HISTORY",  
 "image": "https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-history",
+"url": "https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "LINGUA",  
-"image": "https://www.useetv.com/assets/images/channel/logo_lingua_small.png",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-lingua",
+"name": "OUTDOOR",  
+"image": "https://pbs.twimg.com/profile_images/1147133774959804416/5G8vn9Ce_400x400.png",  
+"url": "https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8",
 "playInNatPlayer": "true"
 },
 
