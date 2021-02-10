@@ -78,6 +78,8 @@
 "url": "https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
+            ]
+}
 {
 "name": "ESPN",  
 "image": "https://static.epg.best/us/ESPN.us.png",  
