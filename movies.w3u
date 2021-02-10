@@ -45,43 +45,49 @@
 {
 "name": "FOX CH",
 "image": "https://i.ibb.co/WHS5GLc/fox.png",  
-"url": "https://nonton.site:8443/global3/mgt/95",
+"url": "https://nonton.site:8443/yono22/ishak/95",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX ACTION MOVIES",
 "image": "https://i.ibb.co/zHYS8sP/foxactionmovies.png",  
-"url": "https://nonton.site:8443/global3/mgt/1478",
+"url": "https://nonton.site:8443/yono22/ishak/1478",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX MOVIES",
 "image": "https://i.ibb.co/9WJBzBH/foxmovies.png",  
-"url": "https://nonton.site:8443/global3/mgt/98",
+"url": "https://nonton.site:8443/yono22/ishak/98",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX LIFE",
 "image": "https://i.ibb.co/N2QyPx7/foxlife.png",  
-"url": "https://nonton.site:8443/global3/mgt/94",
+"url": "https://nonton.site:8443/yono22/ishak/94",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX CRIME",
 "image": "https://i.ibb.co/Ch6wScc/foxcrime.png",  
-"url": "https://nonton.site:8443/global3/mgt/763",
+"url": "https://nonton.site:8443/yono22/ishak/763",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX FAMILY MOVIES",
 "image": "https://i.ibb.co/MVtvTyF/foxfamilymovies.png",  
-"url": "https://nonton.site:8443/global3/mgt/14994",
+"url": "https://nonton.site:8443/yono22/ishak/14994",
 "playInNatPlayer": "true"
 },
 {
 "name": "WARNER TV",
 "image": "https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13",  
-"url": "http://61.19.242.134/feed/LC28/index.m3u8",
+"url": "https://nonton.site:8443/yono22/ishak/1533",
+"playInNatPlayer": "true"
+},
+{
+"name": "FLIK",
+"image": "https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13",  
+"url": "https://nonton.site:8443/yono22/ishak/29592",
 "playInNatPlayer": "true"
 },
             ]
@@ -127,12 +133,6 @@
 "name": "CINEMA WORLD",
 "image": "https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png",  
 "url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-cinemaworld",
-"playInNatPlayer": "true"
-},
-{
-"name": "FLIK",
-"image": "https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13",  
-"url": "https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-filx",
 "playInNatPlayer": "true"
 },
 {
