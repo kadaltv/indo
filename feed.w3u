@@ -1,0 +1,14 @@
+{
+"name": "FEED Channel",
+"author": "Source by KADALTV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHiB880ATTxdty_mKf_xWjkG05_9OKmvGSmw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/kadaltv/WISE/Suluk_IPTV/master.w3u",
+"info": "MKCTV",
+"groups": [
+
+{
+"name": "ALL CHANNEL FEED",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHiB880ATTxdty_mKf_xWjkG05_9OKmvGSmw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/kadaltv/feed/main/live_football.m3u",
+"import": false
+},
