@@ -79,6 +79,48 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "EPL 1", 
+"image": "https://365liveball.com/images/logo_tv/epl1.png",  
+"url": "http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL 2", 
+"image": "https://365liveball.com/images/logo_tv/epl2.png",  
+"url": "http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL 3", 
+"image": "https://365liveball.com/images/logo_tv/epl3.png",  
+"url": "http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SUPERSPORT 1 HD",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639",  
+"url": "http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8 ",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SUPERSPORT 2 HD",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/8/8a/Astro_Supersport_2.png/revision/latest/scale-to-width-down/340?cb=20180622074955",  
+"url": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8 ",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SUPERSPORT 3 HD",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest/scale-to-width-down/340?cb=20180622075715",  
+"url": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SUPERSPORT 4 HD",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest/scale-to-width-down/340?cb=20180622080127",  
+"url": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "ESPN",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png",  
 "url": "https://gma2.blab.email/fs2.m3u8",
@@ -91,7 +133,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Fox Sports 1 USA",  
+"name": "FOX SPORT 1 USA",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/320px-2015_Fox_Sports_1_logo.svg.png",  
 "url": "http://yoursports.stream/ing/fs1",
 "referer": "http://yoursports.stream/",
@@ -99,14 +141,13 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Fox Sports 2 USA",  
+"name": "FOX SPORT 2 USA",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/320px-FS2_logo_2015.svg.png",  
 "url": "http://yoursports.stream/ing/fs2",
 "referer": "http://yoursports.stream/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 },
-
 
             ]
 }
