@@ -149,6 +149,13 @@
 "playInNatPlayer": "true"
 },
 
+{
+"name": "TEST FEED",  
+"image": "https://png.pngtree.com/png-clipart/20201009/ourmid/pngtree-live-streaming-online-logo-png-image_2356634.jpg",  
+"url": "https://dailysport.monster/c5.php",
+"playInNatPlayer": "true"
+},
+
             ]
 }
 
