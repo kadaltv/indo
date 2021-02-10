@@ -90,6 +90,18 @@
 "url": "https://nonton.site:8443/yono22/ishak/29592",
 "playInNatPlayer": "true"
 },
+{
+"name": "SBS ONE",
+"image": "https://i2.wp.com/tvtonight.com.au/wp-content/uploads/2015-06-22_2142.jpg?w=708",  
+"url": "https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239",
+"playInNatPlayer": "true"
+},
+{
+"name": "SBS VICELAND",
+"image": "https://i0.wp.com/tvtonight.com.au/wp-content/uploads/viceland.jpg?w=708",  
+"url": "https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239",
+"playInNatPlayer": "true"
+},
             ]
 }
 
