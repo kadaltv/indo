@@ -12,6 +12,66 @@
 "url": "https://raw.githubusercontent.com/kadaltv/feed/main/live_football.m3u",
 "import": false
 },
+{
+"name": "SKYNET SPORT HD",  
+"image": "https://i.postimg.cc/YCFY1x2N/Skynet.png",  
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/7.ts",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASSP 1 HD",  
+"image": "https://i.postimg.cc/X7dcF4SJ/Astro_Supersport_1.png",  
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/10.ts",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASSP 2 HD",  
+"image": "https://i.postimg.cc/Bn35Bk4C/Astro_Supersport_2.png",  
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/11.ts",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASSP 3 HD",  
+"image": "https://i.postimg.cc/Ls6zrPqY/Astro_Supersport_3.png",  
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/12.ts",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASSP 4 HD",  
+"image": "https://i.postimg.cc/fRvc2CbQ/Astro_Supersport_4.png",  
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/13.ts",
+"playInNatPlayer": "true"
+},
+{
+"name": "MATCH! FOOTBALL 1",  
+"image": "https://i.postimg.cc/GtDnVx7r/math-fotbol-1hd.png",  
+"url": "http://spacetv.in/stream/DIPK8H19CP8/130.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "MATCH! FOOTBALL 2",  
+"image": "https://i.postimg.cc/h4QnXKSw/math-fotbol-2hd.png",  
+"url": "http://spacetv.in/stream/DIPK8H19CP8/142.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "MATCH! FOOTBALL 3",  
+"image": "https://i.postimg.cc/dtMYdg30/math-fotbol-3hd.png",  
+"url": "http://spacetv.in/stream/DIPK8H19CP8/185.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "SETANTA SPORT 1",  
+"image": "https://i.postimg.cc/c4QNcTtB/setanta-sports.png",  
+"url": "http://spacetv.in/stream/DIPK8H19CP8/234.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "SETANTA SPORT 2",  
+"image": "https://i.postimg.cc/c4QNcTtB/setanta-sports.png",  
+"url": "http://spacetv.in/stream/DIPK8H19CP8/235.m3u8",
+"playInNatPlayer": "true"
+},
 
             ]
 }
